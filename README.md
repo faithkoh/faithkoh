@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Penultimate Information Systems Student
 ----------------------------------
-- I am interested in data analytics 📖
+- I am interested in data analytics and cybersecurity 📖
 - I'm based in Singapore 🇸🇬
 - You can contact me at faithkoh2113@gmail.com 📨
 
