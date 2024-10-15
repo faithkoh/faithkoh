@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Faith Koh
 
 <!--
 **faithkoh/faithkoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Penultimate Information Systems Student
+----------------------------------
+- I am interested in data analytics 📖
+- I'm based in Singapore 🇸🇬
+- You can contact me at faithkoh2113@gmail.com 📨
+
