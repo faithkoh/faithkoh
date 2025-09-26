@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Penultimate Information Systems Student
+Final Information Systems Student
 ----------------------------------
 - I am interested in machine learning and data engineering 📖
 - I'm based in Singapore 🇸🇬
